@@ -1,0 +1,32 @@
+.my-carousel{
+  padding-bottom: 10%;
+}
+.titulo-carousel{
+  color: white;
+  font-size: 2rem;
+}
+.pie{
+  height: 200px;
+}
+.separate{
+  padding-bottom: 20%;
+}
+footer{
+  background-color: #424242;
+  color: white;
+}
+.derechos{
+  background-color: #212121;
+  color: white;
+  text-align: center;
+  padding: 1% 1% 1% 1%;
+}
+
+.artesano{
+  height: auto;
+}
+
+.artesanos-desc{
+  height: 500px;
+  background-color: white;
+}
