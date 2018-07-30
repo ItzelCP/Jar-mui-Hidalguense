@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="jarmuiDB" type="javax.sql.DataSource">#Mon Jul 30 01:21:52 CDT 2018
+jdbcDriver=com.mysql.jdbc.Driver
+password=root
+userName=root
+jdbcUrl=jdbc\:mysql\://localhost\:3306/jarmui
+</Resource>
+</resources>
